@@ -1,12 +1,12 @@
 {
-  "name": "ASITHA-MD",
+  "name": "SHADOW-N,
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "start.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name ASITHA-MD",
-    "stop": "pm2 stop ASITHA-MD",
-    "restart": "pm2 restart ASITHA-MD"
+    "start": "pm2 start start.js --deep-monitoring --attach --name SHADOW-N",
+    "stop": "pm2 stop SHADOW-N",
+    "restart": "pm2 restart SHADOW-N"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:asitha-baliyes-new",
